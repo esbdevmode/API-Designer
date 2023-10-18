@@ -1,1 +1,3 @@
-Exam dump links: https://priyadogra.com/api-designer-certification-exam-answers-api-academy/
+Exam dump links: 
+API designer: https://priyadogra.com/api-designer-certification-exam-answers-api-academy/
+API Security Architecture : https://priyadogra.com/api-security-architect-exam-answers-api-academy/
